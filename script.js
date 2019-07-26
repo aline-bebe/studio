@@ -29,6 +29,13 @@
     $('.p3').hide();;
     });
 
+
+    $(".submit").click(function(){
+        var name=$(".form").val();
+        var email=$(".form").val();
+        var textarea=$(".form").val();
+        alert("hallo");
+    });
         });
 
         
