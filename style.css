@@ -15,7 +15,7 @@
 }
 
 
-.first h1,p {
+.first  {
     margin: 20px;
     color: aliceblue;
     text-align: center;
@@ -30,10 +30,32 @@
 
 .second {
     background-image: url(image/s_image.jpg) ;
-     
+    color: aliceblue;
     background-size: cover;
     position: relative;
     text-align: center;
     height: 300px;
 }
+.third {
+    background-image: url(image/c_image.jpg) ;
+    
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    height: 400px;
+}
+.form{
+    background-color: unset;
+  border: solid white 2px;
+ 
 
+}
+.fourth{
+    width: 500px;
+    position: static;
+    left: 0;
+    text-align: center;
+}
+#footer{
+    text-align: center;
+}
