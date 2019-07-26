@@ -60,6 +60,9 @@
     text-align: center;
 
 }
-#pp{
+.pp{
+    color: white;
+}
+::placeholder{
     color: white;
 }
