@@ -34,7 +34,7 @@
         var name=$(".form").val();
         var email=$(".form").val();
         var textarea=$(".form").val();
-        alert("hallo");
+        alert("well recieved,"  + "thank you for reaching out to us");
     });
         });
 
