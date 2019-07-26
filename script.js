@@ -28,4 +28,6 @@ $('.p3').click(function(){
    $('#img3').show();
    $('.p3').hide();;
 });
+
+
      });
