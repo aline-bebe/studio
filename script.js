@@ -101,6 +101,36 @@
     });
 
 
+  //   fiveth pic
+
+  $(".p5").hide();
+  $("#pic5").animate({
+      opacity: 0.7
+  });
+  $("#pic5").hover(function(){
+      $(this).stop()
+      $(".p5").fadeIn();
+  } , function(){
+
+      $(this).stop()
+      $(".p5").fadeOut();
+  });
+
+
+   //   fiveth pic
+
+   $(".p6").hide();
+   $("#pic6").animate({
+       opacity: 0.7
+   });
+   $("#pic6").hover(function(){
+       $(this).stop()
+       $(".p6").fadeIn();
+   } , function(){
+ 
+       $(this).stop()
+       $(".p6").fadeOut();
+   });
 
    
         });
