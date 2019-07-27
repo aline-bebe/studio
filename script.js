@@ -117,7 +117,7 @@
   });
 
 
-   //   fiveth pic
+   //   sixth pic
 
    $(".p6").hide();
    $("#pic6").animate({
@@ -130,6 +130,37 @@
  
        $(this).stop()
        $(".p6").fadeOut();
+   });
+
+    //   seventh pic
+
+    $(".p7").hide();
+    $("#pic7").animate({
+        opacity: 0.7
+    });
+    $("#pic7").hover(function(){
+        $(this).stop()
+        $(".p7").fadeIn();
+    } , function(){
+  
+        $(this).stop()
+        $(".p7").fadeOut();
+    });
+ 
+
+     //   eightth pic
+
+   $(".p8").hide();
+   $("#pic8").animate({
+       opacity: 0.7
+   });
+   $("#pic8").hover(function(){
+       $(this).stop()
+       $(".p8").fadeIn();
+   } , function(){
+ 
+       $(this).stop()
+       $(".p8").fadeOut();
    });
 
    
