@@ -50,19 +50,84 @@
     
 
     }
-    .fourth{
+     .fourth{
         width: 500px;
         position: static;
         left: 0;
         text-align: center;
-    }
+        
+    } 
     #footer{
         text-align: center;
-
+       
     }
     .pp{
         color: white;
     }
     ::placeholder{
         color: white;
+    }
+    .pp1{
+        position: absolute;
+        padding-left: 130px;
+        padding-top: 80px;
+        font-size: 20px;
+        color: black;
+      
+        
+    }
+
+    #pic1{
+        position: relative;
+        width:270px;
+    }
+
+    .pp22{
+        position: absolute;
+        padding-left: 130px;
+        padding-top: 80px;
+        font-size: 20px;
+        color: black;
+        
+        
+        
+    }
+
+    #pic22{
+        position: relative;
+        width:270px;
+      
+
+    }
+
+    .p33{
+        position: absolute;
+        padding-left: 130px;
+        padding-top: 80px;
+        font-size: 20px;
+        color: black;
+        
+        
+    }
+
+    #pict3{
+        position: relative;
+        width:270px;
+
+    }
+
+    .p4{
+        position: absolute;
+        padding-left: 130px;
+        padding-top: 80px;
+        font-size: 20px;
+        color: black;
+        
+        
+    }
+
+    #pic4{
+        position: relative;
+        width:270px;
+
     }
