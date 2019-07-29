@@ -34,7 +34,12 @@
             var name=$(".form").val();
             var email=$(".form").val();
             var textarea=$(".form").val();
-            alert("well recieved,"  + "thank you for reaching out to us");
+            if((name !== "") && (email !== "") && (textarea !== "")){
+            alert(name  + "," + " thank you for reaching out to us");
+            }
+            else{
+                alert("please fill the form")
+            }
         });
 
     //   first pic
