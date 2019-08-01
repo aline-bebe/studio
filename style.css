@@ -79,29 +79,36 @@
             padding-left: 110px;
             padding-top: 80px;
             font-size: 20px;
-            color:rgb(71, 25, 238);
-            border: 12px solid rgb(71, 25, 238);
-            width: 270px;
-            height: 220px;
-        
+            display: none;
+            color:white;
+            border: 12px solid white;
+            width: 90%;
+            height: 90%;
+            background-color: black ;
+           
+           
+           
             
         }
 
         #pic1{
             position: relative;
             width:270px;
+            
         }
 
         .pp22{
             position: absolute;
             padding-left: 110px;
             padding-top: 80px;
-            font-size: 20px;
-            color:rgb(71, 25, 238);
-            border: 12px solid rgb(71, 25, 238);
-            width: 270px;
-            height: 220px;
-            
+            font-size: 25px;
+            color:white;
+            border: 12px solid white;
+            width: 90%;
+            height: 90%;
+             background-color: black; 
+           
+            display: none;
             
             
         }
@@ -117,11 +124,14 @@
             position: absolute;
             padding-left: 110px;
             padding-top: 80px;
-            font-size: 20px;
-            color: rgb(71, 25, 238);
-            border: 12px solid rgb(71, 25, 238);
-            width: 270px;
-            height: 220px;
+            font-size: 25px;
+            color:white;
+            border: 12px solid white;
+            width: 90%;
+            height: 90%;
+             background-color: black; 
+           
+            display: none;
             
             
         }
@@ -136,11 +146,14 @@
             position: absolute;
             padding-left: 110px;
             padding-top: 80px;
-            font-size: 20px;
-            color: rgb(71, 25, 238);
-            border: 12px solid rgb(71, 25, 238);
-            width: 270px;
-            height: 220px;
+            font-size: 25px;
+            color:white;
+            border: 12px solid white;
+            width: 90%;
+            height: 90%;
+             background-color: black; 
+           
+            display: none;
             
             
         }
@@ -155,11 +168,14 @@
             position: absolute;
             padding-left: 110px;
             padding-top: 80px;
-            font-size: 20px;
-            color: rgb(71, 25, 238);
-            border: 12px solid rgb(71, 25, 238);
-            width: 270px;
-            height: 220px;
+            font-size: 25px;
+            color:white;
+            border: 12px solid white;
+            width: 90%;
+            height: 90%;
+             background-color: black; 
+           
+            display: none;
             
             
         }
@@ -172,13 +188,16 @@
 
         .p6{
             position: absolute;
-            padding-left: 100px;
+            padding-left: 110px;
             padding-top: 80px;
-            font-size: 20px;
-            color: rgb(71, 25, 238);
-            border: 12px solid rgb(71, 25, 238);
-            width: 270px;
-            height: 220px;
+            font-size: 25px;
+            color:white;
+            border: 12px solid white;
+            width: 90%;
+            height: 90%;
+             background-color: black; 
+           
+            display: none;
             
             
         }
@@ -193,12 +212,14 @@
             position: absolute;
             padding-left: 110px;
             padding-top: 80px;
-            font-size: 20px;
-            color: rgb(71, 25, 238);
-            border: 12px solid rgb(71, 25, 238);
-            width: 270px;
-            height: 220px;
-            
+            font-size: 25px;
+            color:white;
+            border: 12px solid white;
+            width: 90%;
+            height: 90%;
+             background-color: black; 
+           
+            display: none;
             
         }
 
@@ -212,11 +233,14 @@
             position: absolute;
             padding-left: 110px;
             padding-top: 80px;
-            font-size: 20px;
-            color:rgb(71, 25, 238);
-            border: 12px solid rgb(71, 25, 238);
-            width: 270px;
-            height: 220px;
+            font-size: 25px;
+            color:white;
+            border: 10px solid white;
+            width: 90%;
+            height: 90%;
+             background-color: black; 
+           
+            display: none;
               
             
         }

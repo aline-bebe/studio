@@ -46,29 +46,34 @@
 
         $(".pp1").hide();
         $("#pic1").animate({
-            opacity: 0.7
+            
         });
         $("#pic1").hover(function(){
-            $(this).stop()
+            $(this).stop().animate({opacity:0.5}, );
             $(".pp1").fadeIn();
+           
         } , function(){
-
-            $(this).stop()
+           
+            $(this).stop().animate({opacity:1}, );
             $(".pp1").fadeOut();
         });
+
+    
+
+        
 
         //   second pic
 
         $(".pp22").hide();
         $("#pic22").animate({
-            opacity: 0.7
+           
         });
         $("#pic22").hover(function(){
-            $(this).stop()
+            $(this).stop().animate({opacity:0.5},);
             $(".pp22").fadeIn();
         } , function(){
 
-            $(this).stop()
+            $(this).stop().animate({opacity:1},);
             $(".pp22").fadeOut();
         });
 
@@ -77,14 +82,14 @@
 
         $(".p33").hide();
         $("#pict3").animate({
-            opacity: 0.7
+         
         });
         $("#pict3").hover(function(){
-            $(this).stop()
+            $(this).stop().animate({opacity:0.5},);
             $(".p33").fadeIn();
         } , function(){
 
-            $(this).stop()
+            $(this).stop().animate({opacity:1},);
             $(".p33").fadeOut();
         });
 
@@ -94,14 +99,14 @@
 
         $(".p4").hide();
         $("#pic4").animate({
-            opacity: 0.7
+          
         });
         $("#pic4").hover(function(){
-            $(this).stop()
+            $(this).stop().animate({opacity:0.5},);
             $(".p4").fadeIn();
         } , function(){
 
-            $(this).stop()
+            $(this).stop().animate({opacity:1},);
             $(".p4").fadeOut();
         });
 
@@ -110,14 +115,14 @@
 
     $(".p5").hide();
     $("#pic5").animate({
-        opacity: 0.7
+        
     });
     $("#pic5").hover(function(){
-        $(this).stop()
+        $(this).stop().animate({opacity:0.5},);
         $(".p5").fadeIn();
     } , function(){
 
-        $(this).stop()
+        $(this).stop().animate({opacity:1}, );
         $(".p5").fadeOut();
     });
 
@@ -126,14 +131,14 @@
 
     $(".p6").hide();
     $("#pic6").animate({
-        opacity: 0.7
+       
     });
     $("#pic6").hover(function(){
-        $(this).stop()
+        $(this).stop().animate({opacity:0.5},);
         $(".p6").fadeIn();
     } , function(){
     
-        $(this).stop()
+        $(this).stop().animate({opacity:1},);
         $(".p6").fadeOut();
     });
 
@@ -141,14 +146,14 @@
 
         $(".p7").hide();
         $("#pic7").animate({
-            opacity: 0.7
+            
         });
         $("#pic7").hover(function(){
-            $(this).stop()
+            $(this).stop().animate({opacity:0.5},);
             $(".p7").fadeIn();
         } , function(){
     
-            $(this).stop()
+            $(this).stop().animate({opacity:1},);
             $(".p7").fadeOut();
         });
     
@@ -157,14 +162,14 @@
 
     $(".p8").hide();
     $("#pic8").animate({
-        opacity: 0.7
+        
     });
     $("#pic8").hover(function(){
-        $(this).stop()
+        $(this).stop().animate({opacity:0.5}, );
         $(".p8").fadeIn();
     } , function(){
     
-        $(this).stop()
+        $(this).stop().animate({opacity:1},);
         $(".p8").fadeOut();
     });
 
